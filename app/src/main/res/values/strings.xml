@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">THE TRABALHO</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_segunda_tela">SegundaTela</string>
+    <string name="title_activity_terceira_tela">TerceiraTela</string>
+    <string name="nome">Nome:</string>
+    <string name="idade">Idade: </string>
+    <string name="endereco">Endereço: </string>
+    <string name="pergunta">Seus dados estão corretos?</string>
+    <string name="salvar">SALVAR</string>
+    <string name="salvo">Cadastro salvo com sucesso!</string>
+    <string name="sim">SIM</string>
+    <string name="nao">NÃO</string>
+    <string name="curso">SISTEMAS DE INFORMAÇÃO</string>
+    <string name="materia">PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS</string>
+    <string name="alunos">ALUNOS: </string>
+    <string name="luan">Luan Francisco Guimarães Guedes - R.A: 194300</string>
+    <string name="bruno">Bruno Henrique Costa da Silva - R.A: 195374</string>
+    <string name="isabela">Isabela Barros de Oliveira - R.A: 193312</string>
+</resources>
