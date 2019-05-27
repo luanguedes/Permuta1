@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Produtos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Produto id = "100">
+		<Nome>Mi 8 lite</Nome>
+		<Preco>1000</Preco>
+	</Produto>
+	<Produto id = "101">
+		<Nome>Mi 8  </Nome>
+		<Preco>1200</Preco>
+	</Produto>
+	<Produto id = "102">
+		<Nome>Mi 9</Nome>
+		<Preco>2000</Preco>
+	</Produto>
+	<Produto id = "103">
+		<Nome>Mi 9 SE</Nome>
+		<Preco>1600</Preco>
+	</Produto>
+	<Produto id = "104">
+		<Nome>Redmi Note 6</Nome>
+		<Preco>850</Preco>
+	</Produto>
+	<Produto id = "105">
+		<Nome>Redmi Note 7</Nome>
+		<Preco>950</Preco>
+	</Produto>
+	<Produto id = "106">
+		<Nome>Redmi 6</Nome>
+		<Preco>550</Preco>
+	</Produto>
+	<Produto id = "107">
+		<Nome>Mi band 3</Nome>
+		<Preco>150</Preco>
+	</Produto>
+	<Produto id = "108">
+		<Nome>Mi band 2</Nome>
+		<Preco>100</Preco>
+	</Produto>
+	<Produto id = "109">
+		<Nome>Amazfit Stratos</Nome>
+		<Preco>500</Preco>
+	</Produto>
+</Produtos>
