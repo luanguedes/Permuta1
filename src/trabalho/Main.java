@@ -81,14 +81,20 @@ public class Main implements Observer{
                     break;
                     
                 case 4:
-                    System.out.println(Facade.getInstance().cobrar(produto.getPreco()));
+                    
+                    System.out.println(Facade.getInstance().cobrar(Carrinho.getInstance().gerarTotal()));
                     break;
                     
                 case 5:
-                    System.out.println("Qual valor irá usar para pagar?");
+                    System.out.println("Escolha o método de pagamento: ");
+                    System.out.println("");
+                    System.out.println("1 - BOLETO");
+                    System.out.println("2 - DINHEIRO");
+                    System.out.println("3 - CARTÃO");
+                    System.out.println("");
                     input = new Scanner(System.in);
-                    System.out.println(Facade.getInstance().realizarPagamento(input.nextDouble()));
-                    input = new Scanner(System.in);
+                    Facade.getInstance().realizarPagamento(input.nextInt());
+                   break;
 
                 default:
                     System.out.println("Escolha uma opção válida...");

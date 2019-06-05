@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root>
+    <compra id="1">
+        <produtos>107 - 108 - 100</produtos>
+        <preco>1250.0</preco>
+        <pagamento>Boleto</pagamento>
+    </compra>
+</root>

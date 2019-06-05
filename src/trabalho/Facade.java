@@ -11,12 +11,11 @@ public class Facade {
         return Facade.instance;
     }
         public String cobrar(double total){
-            Biblioteca.getInstance().cobrar(total);
-            return "";
+            return Biblioteca.getInstance().cobrar(total);
         }
         
-        public String realizarPagamento(double valorPago){
-            Biblioteca.getInstance().realizarPagamento(valorPago);
+        public String realizarPagamento(int pagamento){
+            Biblioteca.getInstance().realizarPagamento(pagamento);
             return "";
         }
 }
